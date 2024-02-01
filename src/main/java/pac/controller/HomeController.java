@@ -25,7 +25,7 @@ public class HomeController
 	{
 		return "index";
 	}
-	
+	//home
 	
 	@GetMapping("/shop")
 	public String shop(Model model)
