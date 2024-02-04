@@ -24,7 +24,7 @@ import pac.repository.CategoryRepository;
 import pac.repository.ProductsRepository;
 import pac.service.CategoryService;
 import pac.service.ProductsService;
-
+//admin
 @Controller
 public class adminController
 {
