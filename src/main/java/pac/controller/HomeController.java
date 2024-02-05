@@ -14,10 +14,10 @@ import pac.service.ProductsService;
 @Controller
 public class HomeController 
 {
-	@Autowired
+	//@Autowired
 	CategoryService categoryService;
 	
-	@Autowired
+	//@Autowired
 	ProductsService productsService;
 	
 	@GetMapping({"/","/home"})

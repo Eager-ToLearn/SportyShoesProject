@@ -13,7 +13,7 @@ import pac.service.ProductsService;
 @Controller
 public class CartController 
 {
-	@Autowired
+	//@Autowired
 	ProductsService productsService;
 	
 //	@GetMapping("/addToCart/{id}")

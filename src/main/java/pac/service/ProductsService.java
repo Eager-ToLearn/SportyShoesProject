@@ -12,7 +12,7 @@ import pac.repository.ProductsRepository;
 @Service
 public class ProductsService
 {
-	@Autowired
+	//@Autowired
 	ProductsRepository productsRepository;
 	
 	public List<Products> getAllProducts()

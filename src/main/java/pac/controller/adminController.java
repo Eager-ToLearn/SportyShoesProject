@@ -30,10 +30,10 @@ public class adminController
 {
 	public static String uploadDir=System.getProperty("user.dir")+"/src/main/resources/static/PicturesOfProducts";
 	
-	@Autowired
+	//@Autowired
 	CategoryService categoryService;
 	
-	@Autowired
+	//@Autowired
 	ProductsService productsService;
 	
 	
